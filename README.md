@@ -12,11 +12,11 @@
 
 
 <hr class="dotted">
-A pet shop website is an e-commerce platform that allows users to browse, purchase, and adopt pets online
+A pet food website is an e-commerce platform that allows users to browse, purchase, and adopt pets food online
 
 ## About this Project:
 
-Building a pet shop website using Laravel and MySQL provides a robust and scalable solution for managing pet inventory, handling online transactions, and delivering a seamless user experience.
+A pet food e-commerce website is an online platform that allows customers to browse, purchase, and have pet food delivered to their doorsteps. It typically features a user-friendly interface, a comprehensive catalog of pet food products, secure payment gateways, and order tracking capabilities. Building a pet food e-commerce website using Laravel and MySQL provides a robust and scalable solution for managing pet food inventory, handling online transactions, and delivering a seamless customer experience.
 Connect with me at:
 
 <p align='center'>
