@@ -36,32 +36,40 @@ Connect with me at:
 - Mysql
 - Ajax/JQuery
 
-  ## Free Features
-  - Login | Register
-  - View product
-  - Add to wishlist
-  - Search product
-  - Add to cart
-  - Online Banking (VNPAY)
+## Free Features
+- Login | Register
+- View product
+- Add to wishlist
+- Search product
+- Add to cart
+- Online Banking (VNPAY)
  
-    ## Screen 
+## Screen 
 
-<img src="screen/screen1.png">
 
-<img src="screen/screen2.png">
 
-<img src="screen/screen3.png">
+<img src="screen/1.jpg">
 
-<img src="screen/screen4.png">
 
-<img src="screen/screen5.png">
+<img src="screen/2.jpg">
 
-<img src="screen/screen6.png">
 
-<img src="screen/1.png">
+<img src="screen/3.jpg">
 
-<img src="screen/2.png">
 
-<img src="screen/3.png">
+<img src="screen/4.jpg">
 
-<img src="screen/4.png">
+
+<img src="screen/5.jpg">
+
+
+<img src="screen/6.jpg">
+
+
+<img src="screen/7.jpg">
+
+
+<img src="screen/8.jpg">
+
+
+
