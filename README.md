@@ -1,115 +1,67 @@
-<h1 align="center">Ecommerce made with Node.js - MVC</h1>
+# Laravel Petshop.
 
-<p align="center">	
-   <a href="https://www.linkedin.com/in/rafael-goulartb/">
-      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-03B0E8?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-  <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce#readme">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-03B0E8.svg" target="_blank" />
-  </a>
-  <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce/graphs/commit-activity">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-03B0E8.svg" target="_blank" />
-  </a>
-  <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-03B0E8.svg" target="_blank" />
-  </a>
-  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
-  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
-  <img alt="" src="https://img.shields.io/github/repo-size/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
+<p align='center'>
+<img src="https://img.shields.io/badge/laravel-white?logo=laravel" />
+<img src="https://img.shields.io/badge/mysql-orange?logo=Mysql" />
+<img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VNPAY-000144?logo=vnpay&logoColor=white" />
 </p>
 
-> Ecommerce made with Node.js - MVC
 
+<hr class="dotted">
+A pet shop website is an e-commerce platform that allows users to browse, purchase, and adopt pets online
 
-<div align="center">
-  <sub>The ecommerce project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce/graphs/contributors">
-      contributors
-    </a>
-  </sub>
-</div>
+## About this Project:
 
-<br />
-<div align="center">
-  <img src="https://github.com/RafaelGoulartB/Ecommerce-Quantum/blob/master/Ecommerce.jpg" width="720">
-</div>
+Building a pet shop website using Laravel and MySQL provides a robust and scalable solution for managing pet inventory, handling online transactions, and delivering a seamless user experience.
+Connect with me at:
 
----
-
-# :pushpin: Table of Contents
-
-* [Demo Website](#eyes-demo-website)
-* [Technologies](#computer-technologies)
-* [Features](#rocket-features)
-* [How to run](#construction_worker-how-to-run)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
-
-<h2 align="left"> 📥 Layout available at: </h2>
-<p align="center">
-    <a title="Acess Figma Web" href="https://www.figma.com/file/fDLkOXAz4k3ILWb8PoDivJZF/E-Commerce-Quantum?node-id=0%3A1">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Acess Figma Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
-    </a>
-</p>
-
-# :eyes: Demo Website
-👉  demo: https://ecommerce-quantum.herokuapp.com/
-
-# :computer: Technologies
-This project was made using the follow technologies:
-<ul>
-  <li><a href="https://nodejs.org/en/">Node.js</a></li>
-  <li><a href="https://expressjs.com/">Express</a></li>
-  <li><a href="https://github.com/mysqljs/mysql">Mysql</a></li>
-  <li><a href="https://www.npmjs.com/package/express-handlebars">Express Handlebars</a></li>
-  <li><a href="https://eslint.org/">Eslint</a></li>
-</ul>   
-
-# :rocket: Features
-
-- List Products
-- Filter products by Category
-- Add products to Wishlist
-- Add products to Cart
+<p align='center'>
+    
+  <a href="https://www.linkedin.com/in/nguyen-ben-b7798326a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
   
-# :construction_worker: How to run
-## Install
+</p>
 
-```sh
-npm install
-```
-## Usage
+<p align='center'>
+  📫 How to reach me: <a href='mailto:nben19732@gmail.com'>nben19732@gmail.com</a>
+</p>
 
-```sh
-npm run start
-```
-## Dev Mode
+## Technology Used:
+- Laravel Framework
+- Mysql
+- Ajax/JQuery
 
-```sh
-npm run dev
-```
+  ## Free Features
+  - Login | Register
+  - View product
+  - Add to wishlist
+  - Search product
+  - Add to cart
+  - Online Banking (VNPAY)
+ 
+    ## Screen 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img src="screen/screen1.png">
 
-# :bug: Issues
+<img src="screen/screen2.png">
 
-Feel free to **file a new issue** with a respective title and description on the the [NodeJS Ecommerce](https://github.com/RafaelGoulartB/nodejs-ecommerce/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+<img src="screen/screen3.png">
 
-# :tada: Contributing
-First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
+<img src="screen/screen4.png">
 
-Here's some tips:
+<img src="screen/screen5.png">
 
-* Check the [issues page](https://github.com/RafaelGoulartB/nodejs-ecommerce/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
-* Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
+<img src="screen/screen6.png">
 
-Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+<img src="screen/1.png">
 
-# :closed_book: License
+<img src="screen/2.png">
 
-Released in 2020.
-This project is under the [MIT license](./LICENSE).
+<img src="screen/3.png">
 
-Made with love by [RafaelGoulartB](https://github.com/RafaelGoulartB) 🚀
+<img src="screen/4.png">
